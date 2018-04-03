@@ -10,31 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Neuroscience",
+    "Psychiatric Illness",
+    "Nonhuman Primate disease models"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "BS in Biology and Neuroscience"
+  institution = "College of William and Mary"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MD Candidate"
+  institution = "TBD"
+  year = 2022
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Sindhura Kolachana is a recent undergraduate and is now working at the Transgenic Core at the National Institutes of Health. She is currently working on characterizing the process of transgenesis in the marmoset monkey in order to produce more reliable transgenic primate models in the future. She is well trained at methods such as blood collection, ultrasound, hormone injections, gamete collection, ELISA, tissue culture, IPSC production, and primate behavioral training. She will be matriculating to medical school in August 2018 where she hopes to continue conducting neuroscience research. 
